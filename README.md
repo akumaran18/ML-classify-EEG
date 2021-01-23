@@ -4,6 +4,7 @@
 ### Please see assignment_4.docx for a full description
 ![](https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png)
 
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png">
 This is an example of how to train machine learning models with SciKit-Learn packages to classify [EEG data](https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875) as either indicative of a seizure or not. 'Final_MachineLearning.ipynb' demonstrates each of the the data manipulation steps using EEG data from the 'dataBig' folder. The accuracy of four different machine learning models (K Nearest Neighbors, SVM, Decision Tree, and Naive Bayes) are compared for accuracy in the final step.
 
 Instructions modified from an assignment by Yao Li at the University of Illinois at Urbana-Champaign, yaoli90@illinois.edu.
