@@ -1,1 +1,1 @@
-# classify-EEG-ML
+# Training and testing ML models to recognize seizures
