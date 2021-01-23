@@ -1,20 +1,29 @@
 # Training and testing ML models to recognize seizures
 
 ## Overview
+### Please see assignment_4.docx for a full description
 ![](./)
 
-In this example, a csv file of daily blood glucose values (365 values per unique member) is dimensionally flipped and stored in a numpy array. NaN values are replaced my the previous/next non-NaN value. Finally, the daily value averaged over all members is plotted over 365 days using matplotlib. 
+This is an example of how to train machine learning models to classify [EEG data](https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875) as either indicative of a seizure or not (using SciKit-Learn packages). 'Final_MachineLearning.ipynb' demonstrates each of the the data manipulation steps using EEG data from the 'dataBig' folder.
+
+The contents of the 'dataBig' folder come from this source:
+
+Stevenson, N. J., et al. "A dataset of neonatal EEG recordings with seizure annotations." Scientific data 6 (2019): 190039.
+https://www.nature.com/articles/sdata201939
+
+The contents of the 'data' folder come from this website: http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3
+
+The 'pyeeg' folder is a required Python package which helps to extract features from EEG data. 
 
 Instructions modified from an assignment by Yao Li at the University of Illinois at Urbana-Champaign, yaoli90@illinois.edu.
 
 ## Files
 
 Detailed Solution:
-- Assignment_0_final.ipynb
+- AssignmentFinal_MachineLearning.ipynb
 
 Instructions: 
-- assignment_0.docx
-- bg_analysis.py
+- assignment_4.docx
 
 Blood glucose dataset:
 - a.csv
