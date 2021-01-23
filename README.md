@@ -6,10 +6,10 @@
 This is an example of how to train machine learning models to classify [EEG data](https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875) as either indicative of a seizure or not (using SciKit-Learn packages). 'Final_MachineLearning.ipynb' demonstrates each of the the data manipulation steps using EEG data from the 'dataBig' folder.
 
 The contents of the 'dataBig' folder come from this source:
-Stevenson, N. J., et al. ["A dataset of neonatal EEG recordings with seizure annotations."](https://www.nature.com/articles/sdata201939) Scientific data 6 (2019): 190039.
+- Stevenson, N. J., et al. ["A dataset of neonatal EEG recordings with seizure annotations."](https://www.nature.com/articles/sdata201939) Scientific data 6 (2019): 190039.
 
 The contents of the 'data' folder come from this source: 
-Andrzejak RG, Lehnertz K, Rieke C, Mormann F, David P, Elger CE (2001) [Indications of nonlinear deterministic and finite dimensional structures in time series of brain electrical activity: Dependence on recording region and brain state](http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3), Phys. Rev. E, 64, 061907
+- Andrzejak RG, Lehnertz K, Rieke C, Mormann F, David P, Elger CE (2001) [Indications of nonlinear deterministic and finite dimensional structures in time series of brain electrical activity: Dependence on recording region and brain state](http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3), Phys. Rev. E, 64, 061907
 
 The 'pyeeg' folder is a required Python package which helps to extract features from EEG data. 
 
