@@ -5,7 +5,7 @@
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spike-waves.png">
 
-*image_caption*
+*Left: Epileptic spike and wave discharges monitored with EEG, Source: Uploaded by Der Lange on [Wikipedia](https://en.wikipedia.org/wiki/File:Spike-waves.png) licensed under the [Creative Commons Attribution-Share Alike 2.0 Generic license](https://en.wikipedia.org/wiki/Creative_Commons)*
 
 This is an example of how to train machine learning models with SciKit-Learn packages to classify [EEG data](https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875) as either indicative of a seizure or not. 'Final_MachineLearning.ipynb' demonstrates each of the the data manipulation steps using EEG data from the 'dataBig' folder. The accuracy of four different machine learning models (K Nearest Neighbors, SVM, Decision Tree, and Naive Bayes) are compared for accuracy in the final step.
 
