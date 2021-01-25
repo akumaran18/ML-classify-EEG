@@ -1,4 +1,4 @@
-# Training and testing ML models to recognize seizures
+# Training and Testing ML Models to Recognize Seizures
 
 ## Overview
 ### Please see assignment_4.docx for a full description
